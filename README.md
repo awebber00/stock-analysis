@@ -48,3 +48,5 @@ The pros and cons help in various areas as far as debugging and script errors ar
 Photo 3: VBA Script (Refactored Code)
 ![Refactored Code](https://github.com/awebber00/stock-analysis/blob/main/Resources/vbascript.png)
 
+
+* Note: All images that are screen shots are mine. All other photos are sourced from Google Images.
